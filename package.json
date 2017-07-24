@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack -p",
-    "start": "webpack-dev-server --inline --hot",
-    "postinstall": "bower install"
+    "start": "webpack-dev-server --inline --hot"
   },
   "author": "Chad Elliott <chad.d.elliott@gmail.com>",
   "license": "MIT",
